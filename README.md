@@ -15,6 +15,7 @@ This was the very first part of my Python learning process, so the solutions her
   <li>Day 8: Solution from <a href='https://www.globalnerdy.com/2020/12/15/my-solution-to-advent-of-code-2020s-day-8-challenge-in-python/'>globalnerdy</a></li>
   <li>Day 9: Solution from <a href='https://dev.to/qviper/advent-of-code-2020-python-solution-day-9-1knj'>dev.to's Viper</a></li>
   <li>Day 10: Solution from <a href='https://dev.to/qviper/advent-of-code-2020-python-solution-day-10-30kd'>dev.to's Viper</a></li>
+  <li>Day 11: Solution from <a href='https://github.com/metinsuloglu/AdventofCode20/blob/main/day11.py'>Reddit's metinsuloglu</a></li>
 </ul>
 
 Language : Python 3+<br />
